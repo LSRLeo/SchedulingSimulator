@@ -11,7 +11,7 @@ A priority-based Round-Robin CPU scheduler simulation written in Python. Process
 ## Run
 
 ```bash
-python3 scheduler.py joblist1.txt 10 20
+python3 scheduler.py input.txt 10 20
 ```
 
 **Arguments:**
